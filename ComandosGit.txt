@@ -1,0 +1,26 @@
+
+##### INICIALIZAR UN PROYECTO ######
+
+Para indicarle a git, que tu proyecto será versionado con git
+
+git init
+
+##### CLONAR REPOSITORIO REMOTO ######
+
+git clone https://github.com/Sofy18/CatGit.git
+
+
+##### AGREGAR ARCHIVOS ######
+
+Conocer el estatus de la rama.
+git status
+
+Comando para agregar archivos:
+git add path_archivo
+
+##### GUARDAR ARCHIVOS EN LOCAL ######
+
+##### SUBIR ARCHIVOS ######
+
+
+
