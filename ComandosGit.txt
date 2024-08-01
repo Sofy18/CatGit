@@ -6,6 +6,7 @@ Para indicarle a git, que tu proyecto será versionado con git
 
 git init
 
+
 ##### CLONAR REPOSITORIO REMOTO ######
 
 git clone https://github.com/Sofy18/CatGit.git
@@ -16,12 +17,35 @@ git clone https://github.com/Sofy18/CatGit.git
 Conocer el estatus de la rama.
 git status
 
-Comando para agregar archivos:
+Comando para pre agregar archivos:
 git add path_archivo
+
+Comando para pre agregar todos los cambios.
+git add *
+
+Quiero quitar de los archivos preagregados.
+git reset
+
+Saber diferencias entre archivos.
+git diff
+
+Saber diferencias, solo de un archivo.
+git diff path_archivo
+
+
 
 ##### GUARDAR ARCHIVOS EN LOCAL ######
 
+git commit -m "Hola, esto es un commit"
+
 ##### SUBIR ARCHIVOS ######
+git push origin NombreRama
+
+Para saber el nombre de la rama:
+git branch
+
+Saber como se llama tu remoto y las URL
+git remote -v
 
 
 
