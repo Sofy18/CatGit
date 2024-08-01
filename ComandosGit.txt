@@ -5,14 +5,11 @@ Para indicarle a git, que tu proyecto será versionado con git
 
 git init
 
-
-
+Esto es una prueba amor.
 
 ##### CLONAR REPOSITORIO REMOTO ######
 
 git clone https://github.com/Sofy18/CatGit.git
-
-
 
 
 ##### AGREGAR ARCHIVOS ######
