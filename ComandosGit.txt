@@ -47,5 +47,12 @@ git branch
 Saber como se llama tu remoto y las URL
 git remote -v
 
+##### COMANDOS CHECKOUT ######
+
+checkout archivo --- Eliminar cambios del archivo.
+checkout rama ---- Cambio entre ramas.
+checkout -b nuevoNombreRama ----- Crear una rama.
+checkout -D rama ---- Borra una rama.
+
 
 
