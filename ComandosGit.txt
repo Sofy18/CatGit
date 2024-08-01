@@ -5,7 +5,6 @@ Para indicarle a git, que tu proyecto será versionado con git
 
 git init
 
-Esto es una prueba amor.
 
 ##### CLONAR REPOSITORIO REMOTO ######
 
