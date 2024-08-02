@@ -46,5 +46,9 @@ git branch
 Saber como se llama tu remoto y las URL
 git remote -v
 
+Sirve para ver el histórico de la rama. Lo que existe en el local.
+git log
+
+git checkout commit
 
 
